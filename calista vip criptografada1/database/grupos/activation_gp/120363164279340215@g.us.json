@@ -1,0 +1,83 @@
+[
+  {
+    "name": "一 🕷️. . 𝐁𝐋𝐔𝐄 𝐑𝐄𝐁𝐄𝐋𝐒",
+    "groupId": "120363164279340215@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": true,
+    "antilinkhard": false,
+    "antifake": false,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "/"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": true,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [
+          "_",
+          "_",
+          "_",
+          "_"
+        ],
+        "escreveu": [],
+        "palavra_ofc": "gato",
+        "dica": "ele tem 4 patas, e o rugido dele começa com m 😉",
+        "tema": "animal"
+      }
+    ],
+    "ausentes": [],
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+        "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+      },
+      {
+        "bemvindo2": true,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+        "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": true,
+    "level": false,
+    "bangp": false,
+    "nsfw": false,
+    "aluguel": false,
+    "forca_inc": false
+  }
+]
